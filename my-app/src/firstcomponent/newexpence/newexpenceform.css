@@ -1,0 +1,17 @@
+form{
+
+    width: 40%;
+    color: white;
+    font-size: 20px;
+    height: 20vh;
+    background-color: #3a3a3a;
+    padding: 10px;
+    margin-left: 400px;
+    gap: 30px;
+}
+
+.btn{
+    margin-top: 20px;
+}
+
+    
